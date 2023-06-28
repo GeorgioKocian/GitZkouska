@@ -7,6 +7,7 @@ tady je zmena
 
 zmena
 
-SX
+
+
 
 treti radek
